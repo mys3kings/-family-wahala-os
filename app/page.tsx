@@ -95,4 +95,3 @@ export default function Page(){
   <div className="flex gap-2"><button onClick={()=>setShowForm(false)} className="flex-1 py-2.5 border rounded-xl">Cancel</button><button onClick={add} className="flex-1 py-2.5 bg-[#0F4C3A] text-white rounded-xl">Add</button></div></div></div>)}
   </div>);
 }
-EOF
